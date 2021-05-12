@@ -4,4 +4,4 @@ This code is the implementation of "Spread Transform Dither Modulation Watermark
 
 # Requirements
 
-Tensorflow 1.13.1 (1.11.0 <= versrion <= 2.0)
+Tensorflow 1.13.1 (1.11.0 <= versrion < 2.0)
