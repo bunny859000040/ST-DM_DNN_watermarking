@@ -1,0 +1,10 @@
+{
+  "batch_size": 64,
+  "epoch": 200,
+  "scale": 0.01,
+  "embed_dim": 128,
+  "N": 1,
+  "k": 4,
+  "target_blk_id": 3,
+  "base_modelw_fname": ""
+}
